@@ -1,5 +1,8 @@
 # M2-Skill-les2
 
+mees
+
+
 Leden: Mees, Julian, Marbert, Etienne, Damian, Alysha.
 Taken: Mees: Header. 
 Julian: team website. 
@@ -10,4 +13,5 @@ Alysha: Styling verbeteren.
 
 Mees, Julian, Marbert, Etienne, Damian, 
 # Alysha <3
+
 
