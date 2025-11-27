@@ -1,19 +1,19 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     margin: 0;
     padding: 0;
     background-color: #f7f7f7;
 }
 
 header {
-    background-color: #333;
-    color: white;
+    background-color: #7e7e7e;
+    color: rgb(255, 255, 255);
     padding: 20px;
     text-align: center;
 }
 
 nav a {
-    color: white;
+    color: rgb(226, 226, 226);
     margin: 0 15px;
     text-decoration: none;
     font-weight: bold;
@@ -27,8 +27,8 @@ footer {
     position: fixed;
     left: 0;
     bottom: 0;
-    background-color: #333;
-    color: white;
+    background-color: #7e7e7e;
+    color: rgb(217, 215, 215);
     text-align: center;
     padding: 10px;
     margin-top: 30px;
@@ -36,7 +36,7 @@ footer {
 }
 
 section {
-    background: white;
+    background: rgb(238, 233, 223);
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
