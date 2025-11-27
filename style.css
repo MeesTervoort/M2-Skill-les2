@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background-color: #7e7e7e;
+    background-image: linear-gradient(rgb(73, 73, 73), rgb(178, 178, 178));
     color: rgb(255, 255, 255);
     padding: 20px;
     text-align: center;
@@ -36,8 +36,13 @@ footer {
 }
 
 section {
-    background: rgb(238, 233, 223);
+    background-image: linear-gradient(rgb(238, 221, 207), rgb(182, 168, 151));
     padding: 20px;
+    margin: 20px;
     border-radius: 8px;
-    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 0 5 rgba(0, 0, 0, 0.1);
+}
+
+p {
+    font-size: 25px;
 }
